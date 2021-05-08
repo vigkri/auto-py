@@ -1,2 +1,1 @@
-# python-scripts
- 
+# python-smtp-sendmail
